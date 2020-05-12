@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyBanner\bin\Win64_Shipping_Client\BearMyBanner.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyBanner\bin\Win64_Shipping_Client\BearMyBanner.pdb
+C:\Users\Rufer\Downloads\BearMyBanner-feature-polybian-template\BearMyBanner\obj\Debug\BearMyBanner.csprojAssemblyReference.cache
+C:\Users\Rufer\Downloads\BearMyBanner-feature-polybian-template\BearMyBanner\obj\Debug\BearMyBanner.csproj.CoreCompileInputs.cache
+C:\Users\Rufer\Downloads\BearMyBanner-feature-polybian-template\BearMyBanner\obj\Debug\BearMyBanner.csproj.CopyComplete
+C:\Users\Rufer\Downloads\BearMyBanner-feature-polybian-template\BearMyBanner\obj\Debug\BearMyBanner.dll
+C:\Users\Rufer\Downloads\BearMyBanner-feature-polybian-template\BearMyBanner\obj\Debug\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.csproj.CoreCompileInputs.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.dll
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyShield\bin\Win64_Shipping_Client\BearMyBanner.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyShield\bin\Win64_Shipping_Client\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.csproj.CopyComplete

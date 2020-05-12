@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyShield\bin\Win64_Shipping_Client\BearMyBanner.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BearMyShield\bin\Win64_Shipping_Client\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyShield.csproj.CoreCompileInputs.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyShield.csproj.CopyComplete
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.dll
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyBanner\obj\Debug\BearMyShield.csprojAssemblyReference.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyShield\obj\Debug\BearMyShield.csproj.CoreCompileInputs.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyShield\obj\Debug\BearMyShield.csproj.CopyComplete
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyShield\obj\Debug\BearMyBanner.dll
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\BearMyShield\obj\Debug\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\TEST\BearMyShield\obj\Debug\BearMyShield.csproj.CoreCompileInputs.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\TEST\BearMyShield\obj\Debug\BearMyShield.csproj.CopyComplete
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\TEST\BearMyShield\obj\Debug\BearMyBanner.dll
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\TEST\BearMyShield\obj\Debug\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\FINE\BearMyShield\obj\Debug\BearMyShield.csproj.CoreCompileInputs.cache
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\FINE\BearMyShield\obj\Debug\BearMyShield.csproj.CopyComplete
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\FINE\BearMyShield\obj\Debug\BearMyBanner.dll
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\FINE\BearMyShield\obj\Debug\BearMyBanner.pdb
+D:\Bannerlord mod\ok\MY MOD\Test\NEXUS\Custom flag Bearmybanner\MOD BEARMYBANNER\working\FINE\BearMyShield\obj\Debug\BearMyShield.csprojAssemblyReference.cache
